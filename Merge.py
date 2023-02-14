@@ -219,7 +219,3 @@ class Merge:
     def protocol(self, message):
         print(message)
         self.gui(message)
-
-# archive = zipfile.ZipFile("C:\Practice\Python\merge mif mids\тест\mm\влож_пап\86_01_0603001_856.zip")
-# members = archive.namelist()
-# print(str(members))
