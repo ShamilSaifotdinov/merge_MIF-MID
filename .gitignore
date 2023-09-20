@@ -1,1 +1,4 @@
-/__pycache__
+test/
+**/__pycache__/
+merge new/env/
+merge new/protocol.csv
